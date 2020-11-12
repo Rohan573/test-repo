@@ -1,0 +1,1 @@
+java -Dwebdriver.opera.driver="C:\Users\Windows10\workspace\InsuranceProject\src\test\resources\Drivers\operadriver.exe" -jar selenium-server-standalone-3.141.59.jar -role webdriver -hub http://192.168.1.101:5555/grid/register -port 5568
